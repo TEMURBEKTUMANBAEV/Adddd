@@ -1,12 +1,4 @@
 
-html {
-	font-size: 10px;
-	font-family: 'Montserrat', sans-serif;
-	scroll-behavior: smooth;
-}
-a {
-	text-decoration: none;
-}
 .container {
 	min-height: 100vh;
 	width: 100%;
